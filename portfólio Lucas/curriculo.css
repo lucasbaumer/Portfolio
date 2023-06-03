@@ -1,0 +1,72 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    text-align: center;
+    color:#D2691E;
+}
+
+button{
+    align-self: center;
+    text-align: center;
+}
+
+
+#cont_ext{
+    height: 90vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#topico1, #topico2 {
+    background-color: rgba(248, 244, 244, 0.793);
+    width: 800px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10%;
+}
+
+p, h1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#educacao, #exp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ #topico3 {
+    background-color: rgba(248, 244, 244, 0.793);
+    width: 800px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10%;
+} 
+
+#topico4 {
+    background-color: rgba(248, 244, 244, 0.793);
+    width: 800px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10%;
+} 
+
+#botao1, #botao2{
+    text-align: center;
+    align-self: center;
+}

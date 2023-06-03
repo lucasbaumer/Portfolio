@@ -1,0 +1,33 @@
+*{
+    font-family: 'Montserrat', sans-serif;}
+
+.imge{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    margin: right;
+    display: flex;
+    align-items: center;
+    border-radius: 40px;
+}
+
+
+h1{
+    text-align: center;
+    color:#D2691E;
+}
+
+#botao1{
+    text-align: center;
+    align-self: center;
+}
+
+#icones{
+    vertical-align: center;
+    align-items: center;
+    border-radius: 0;
+    display: flex;
+    width: 40px;
+}
